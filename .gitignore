@@ -1,3 +1,7 @@
+User files
+
+commit_msg.txt
+
 # Compiled source #
 ###################
 *.com
@@ -53,3 +57,8 @@ Thumbs.db
 *.map
 *.sct
 *.dep
+
+Folder files
+*.png
+*.s
+*.0001
